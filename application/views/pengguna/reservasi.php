@@ -19,7 +19,7 @@
 
   <div id="content-wrapper">
     <div class="container-fluid">
-    <?php $this->load->view("operator/_partials/breadcrumb.php") ?>
+    <?php $this->load->view("pengguna/_partials/breadcrumb.php") ?>
     <!-- Area Chart Example-->
     <div class="card mb-3">
           <div class="card-header bg-">
