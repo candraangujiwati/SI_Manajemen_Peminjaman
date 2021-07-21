@@ -11,11 +11,11 @@
             <i class="fas fa-fw fa-bullhorn"></i>
             <span>INFORMASI NOTIFIKASI</span></a>
     </li>
-    <li class="nav-item">
+    <!--<li class="nav-item">
         <a class="nav-link" href="<?php echo site_url('penggunabarang/cekbarang')?>">
             <i class="fas fa-fw fa-qrcode"></i>
             <span>SCAN QR CODE</span></a>
-    </li>
+    </li>-->
    
 
     <li class="nav-item">
